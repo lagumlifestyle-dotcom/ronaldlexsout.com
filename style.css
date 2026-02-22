@@ -7,7 +7,7 @@
 body {
     font-family: Georgia, serif;
     color: #f5e6d3;
-    background: url('images/hero-bg2.jpg') no-repeat center center fixed;
+    background: url('images/hero-bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -107,7 +107,7 @@ footer {
 /* Sections */
 section {
     padding: 80px 20px;
-     background: url('images/hero-bg.jpg') no-repeat center center;
+     background: url('images/hero-bg2.jpg') no-repeat center center;
 }
 
 h2 {
@@ -457,5 +457,4 @@ footer {
 
 .next-btn {
     margin-top: 20px;
-
 }
