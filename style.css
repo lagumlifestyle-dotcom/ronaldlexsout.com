@@ -127,6 +127,7 @@ h2 {
     padding: 20px;
     text-align: center;
     border-radius: 8px;
+	color: #ffffff;
 }
 .book-card h3 {
     color: #ffffff;
@@ -465,6 +466,7 @@ footer {
 .next-btn {
     margin-top: 20px;
 }
+
 
 
 
