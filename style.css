@@ -446,7 +446,12 @@ footer {
 }
 
 .modal-content {
-    background: #f4e3cf;
+        background: url("images/modal-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: #000; /* change to white if needed */
     margin: 8% auto;
     padding: 40px;
     width: 80%;
@@ -454,6 +459,20 @@ footer {
     border-radius: 10px;
     position: relative;
 }
+.modal-content::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background: rgba(245, 220, 190, 0.30); /* beige overlay */
+
+    border-radius: 12px;
+}
+.modal-content * {
+    position: relative;
+    z-index: 1;
+}
+
 
 .close {
     position: absolute;
