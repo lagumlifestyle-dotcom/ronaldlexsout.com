@@ -387,7 +387,7 @@ footer {
 }
 /* CONTACT PAGE BACKGROUND */
 .contact-page {
-    background: url("images/hero-bg.jpg") center/cover no-repeat fixed;
+    background: url("images/modal-bg.jpg") center/cover no-repeat fixed;
     color: #3e2b1f;
     text-align: center;
 }
