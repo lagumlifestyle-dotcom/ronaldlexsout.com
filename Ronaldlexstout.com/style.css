@@ -40,7 +40,11 @@ body {
     background-size: cover;
     padding-bottom: 0px;
 }
-
+.hero2-wrapper {
+    background: url('images/modal-bg.jpg') no-repeat center center;
+    background-size: cover;
+    padding-bottom: 0px;
+}
 /* NAVBAR */
 .navbar {
     background: #9c2e2e;
