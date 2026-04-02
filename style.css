@@ -7,7 +7,7 @@
 body {
     font-family: Georgia, serif;
     color: #f5e6d3;
-    background: url('images/hero-bg-new.jpg') no-repeat center center fixed;
+    background: url('images/hero-bg2.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -36,7 +36,7 @@ body {
 
 /* HERO WRAPPER WITH BACKGROUND */
 .hero-wrapper {
-    background: url('images/hero-bg.jpg') no-repeat center center;
+    background: url('hero-bg-new.jpg') no-repeat center center;
     background-size: cover;
     padding-bottom: 0px;
 }
